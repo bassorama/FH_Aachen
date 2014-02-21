@@ -1,0 +1,21 @@
+﻿Der Buildvorgang wurde am 15.10.2012 21:16:43 gestartet.
+     1>Projekt "d:\uni\GIP\A-Termin\GIP\A_02_01\A_02_01.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\A_02_01.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         d:\tools\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt A_02_01.cpp
+         A_02_01.cpp
+       Link:
+         d:\tools\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\uni\GIP\A-Termin\GIP\Debug\A_02_01.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\A_02_01.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\uni\GIP\A-Termin\GIP\Debug\A_02_01.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\uni\GIP\A-Termin\GIP\Debug\A_02_01.lib" /MACHINE:X86 Debug\A_02_01.obj
+         LINK : d:\uni\GIP\A-Termin\GIP\Debug\A_02_01.exe wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+         A_02_01.vcxproj -> d:\uni\GIP\A-Termin\GIP\Debug\A_02_01.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"d:\uni\GIP\A-Termin\GIP\Debug\A_02_01.exe;#1" /manifest Debug\A_02_01.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Die Datei "Debug\A_02_01.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\A_02_01.lastbuildstate".
+     1>Die Erstellung des Projekts "d:\uni\GIP\A-Termin\GIP\A_02_01\A_02_01.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:02.14

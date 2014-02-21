@@ -1,0 +1,21 @@
+﻿Der Buildvorgang wurde am 21.01.2013 14:18:32 gestartet.
+     1>Projekt "d:\uni\GIP\B-Termin\Übungen\string_test\string_test.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\string_test.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         d:\tools\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         d:\tools\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\uni\GIP\B-Termin\Übungen\Debug\string_test.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\string_test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\uni\GIP\B-Termin\Übungen\Debug\string_test.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\uni\GIP\B-Termin\Übungen\Debug\string_test.lib" /MACHINE:X86 Debug\main.obj
+         LINK : d:\uni\GIP\B-Termin\Übungen\Debug\string_test.exe wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+         string_test.vcxproj -> d:\uni\GIP\B-Termin\Übungen\Debug\string_test.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"d:\uni\GIP\B-Termin\Übungen\Debug\string_test.exe;#1" /manifest Debug\string_test.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Die Datei "Debug\string_test.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\string_test.lastbuildstate".
+     1>Die Erstellung des Projekts "d:\uni\GIP\B-Termin\Übungen\string_test\string_test.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:02.19

@@ -1,0 +1,22 @@
+﻿Der Buildvorgang wurde am 21.01.2013 11:30:11 gestartet.
+     1>Projekt "d:\uni\GIP\B-Termin\Übungen\B-1_komplement\B-1_komplement.vcxproj" auf Knoten "2", rebuild Ziel(e).
+     1>_PrepareForClean:
+         Die Datei "Debug\B-1_komplement.lastbuildstate" wird gelöscht.
+       InitializeBuildStatus:
+         "Debug\B-1_komplement.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         d:\tools\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         d:\tools\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\uni\GIP\B-Termin\Übungen\Debug\B-1_komplement.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\B-1_komplement.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\uni\GIP\B-Termin\Übungen\Debug\B-1_komplement.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\uni\GIP\B-Termin\Übungen\Debug\B-1_komplement.lib" /MACHINE:X86 Debug\main.obj
+         B-1_komplement.vcxproj -> d:\uni\GIP\B-Termin\Übungen\Debug\B-1_komplement.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"d:\uni\GIP\B-Termin\Übungen\Debug\B-1_komplement.exe;#1" /manifest "Debug\B-1_komplement.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Die Datei "Debug\B-1_komplement.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\B-1_komplement.lastbuildstate".
+     1>Die Erstellung des Projekts "d:\uni\GIP\B-Termin\Übungen\B-1_komplement\B-1_komplement.vcxproj" ist abgeschlossen, rebuild Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:03.17
