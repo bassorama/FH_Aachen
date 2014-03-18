@@ -1,5 +1,8 @@
 # FH Aachen
 
+If not other mentioned, all the C++ code was implemented with MS Visual Studio 2010 premium
+
+
 ## GIP
 
 Got all the code from GIP Praktikum Course A and B.
